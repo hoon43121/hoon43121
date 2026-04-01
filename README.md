@@ -1,16 +1,8 @@
 ## Hi there 👋
-
-<!--
-**hoon43121/hoon43121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... opensource
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+User name:hoon43121
+소속:영남대학교 컴퓨터공학과
+학년:2학년 
+학번:22311983학번
+이름:김채훈
+github에 올리는 목적: 현재 오픈소스 강의를 듣고있으며 그에 따라 생기는 과제나 프로젝트 등을 작성,제출하기 위함
+현재 진행중인 프로젝트: 없음 
